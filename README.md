@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Nicho 👋</h1>
 
 <!--
 **nicholas2336/nicholas2336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=nicholas2336&label=🔥%20Profile%20views&color=0e75b6&style=for-the-badge" alt="nicholas2336" /> 
+</p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">

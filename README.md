@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Nicho 👋</h1>
 <p>
-  💬 I'm just casual programmer, Ask me about anything <br>
-  🌱 English, Japanese, Indonesia
+  💬 I'm just casual programmer, Ask me about anything、よろしくお願いします<br>
+  🌱 English, Japanese, Indonesia <br>
+  🧑‍💻 Mainly using gitlab for work
 </p>
 
 <!--

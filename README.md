@@ -264,8 +264,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<br>
-
 <h3 align="center">OS</h3>
 <p align="center">
   <a href="https://www.centos.org/" target="_blank" rel="noreferrer">

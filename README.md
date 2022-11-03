@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm Nicho 👋</h1>
-💬 Ask me about anything
+💬 I'm just casual programmer, Ask me about anything
+🌱 English, Japanese, Indonesia
 
 <!--
 **nicholas2336/nicholas2336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 💬 Ask me about ...
 -->
 

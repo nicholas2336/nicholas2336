@@ -298,10 +298,18 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://slack.com/" target="_blank" rel="noreferrer">
+  <a href="https://zoom.us/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/zoomus/zoomus-icon.svg"
       alt="zoom"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://go.chatwork.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/chatwork/chatwork-icon.svg"
+      alt="chatwork"
       width="40"
       height="40"
     />

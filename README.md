@@ -186,8 +186,16 @@ Here are some ideas to get you started:
 <p align="center">
    <a href="https://slack.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"
+      src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"
       alt="slack"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://slack.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/zoomus/zoomus-icon.svg"
+      alt="zoom"
       width="40"
       height="40"
     />
@@ -198,8 +206,14 @@ Here are some ideas to get you started:
 
 <h3 align="center">My Stats</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicholas2336&show_icons=true&locale=en&layout=compact" alt="nicholas2336" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicholas2336&show_icons=true&locale=en&layout=compact" alt="nicholas2336" />
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholas2336&show_icons=true&locale=en" alt="nicholas2336" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholas2336&show_icons=true&locale=en" alt="nicholas2336" />
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholas2336&" alt="nicholas2336" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholas2336&" alt="nicholas2336" />
+</p>

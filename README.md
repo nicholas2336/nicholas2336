@@ -114,14 +114,6 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
-      alt="nuxtjs"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -188,6 +180,21 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<br>
+
+<h3 align="center">Bussines Tools</h3>
+<p align="center">
+   <a href="https://slack.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"
+      alt="slack"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+
+<br>
 
 <h3 align="center">My Stats</h3>
 

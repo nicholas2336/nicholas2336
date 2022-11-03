@@ -98,14 +98,6 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -138,10 +130,34 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"
+      alt="django"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg"
+      alt="ionic"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
+      alt="angular"
       width="40"
       height="40"
     />
@@ -154,14 +170,6 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -170,10 +178,104 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
+      src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"
+      alt="wordpress"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg"
+      alt="apache"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"
+      alt="nginx"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+      alt="bash"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://curl.se/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-icon.svg"
+      alt="curl"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"
+      alt="gitlab"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/github/github-icon.svg"
+      alt="github"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+      alt="heroku"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"
+      alt="terraform"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://letsencrypt.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg"
+      alt="letsEncrypt"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+
+<br>
+
+<h3 align="center">OS</h3>
+<p align="center">
+  <a href="https://www.centos.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg"
+      alt="centos"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"
+      alt="ubuntu"
       width="40"
       height="40"
     />
@@ -205,7 +307,6 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center">My Stats</h3>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicholas2336&show_icons=true&locale=en&layout=compact" alt="nicholas2336" />
 </p>

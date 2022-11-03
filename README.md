@@ -263,6 +263,14 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
+  <a href="https://letsencrypt.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=vscode"
+      alt="vscode"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 <h3 align="center">OS</h3>

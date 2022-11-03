@@ -2,7 +2,7 @@
 <p>
   💬 I'm just casual programmer, Ask me about anything、よろしくお願いします<br>
   🌱 English, Japanese, Indonesia <br>
-  🧑‍💻 Mainly using gitlab for work
+  🧑‍💻 Mainly using Gitlab for work and Github for side work
 </p>
 
 <!--

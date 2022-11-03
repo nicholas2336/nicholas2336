@@ -286,8 +286,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<br>
-
 <h3 align="center">Bussines Tools</h3>
 <p align="center">
    <a href="https://slack.com/" target="_blank" rel="noreferrer">
@@ -315,8 +313,6 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
-
-<br>
 
 <h3 align="center">My Stats</h3>
 <p align="center">

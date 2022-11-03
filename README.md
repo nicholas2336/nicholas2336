@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Nicho 👋</h1>
-<p>💬 I'm just casual programmer, Ask me about anything</p>
-<p>🌱 English, Japanese, Indonesia</p>
+<p>
+  💬 I'm just casual programmer, Ask me about anything <br>
+  🌱 English, Japanese, Indonesia
+</p>
 
 <!--
 **nicholas2336/nicholas2336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=nicholas2336&label=🔥%20Profile%20views&color=0e75b6&style=for-the-badge" alt="nicholas2336" /> 
+  <a href="https://www.linkedin.com/in/nicholas-argadiraksa-533355230/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>  
 </p>
 
 <h3 align="center">Languages and Tools</h3>

@@ -335,13 +335,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholas2336&show_icons=true&locale=en" alt="nicholas2336" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholas2336&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="nicholas2336" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholas2336&" alt="nicholas2336" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nicholas2336&theme=dark&hide_border=true" alt="nicholas2336" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=nicholas2336" alt="nicholas2336" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=nicholas2336&theme=tokyonight&count_private=true" alt="nicholas2336" />
 </p>

@@ -331,7 +331,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">My Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicholas2336&show_icons=true&locale=en&layout=compact" alt="nicholas2336" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicholas2336&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true" alt="nicholas2336" />
 </p>
 
 <p align="center">
